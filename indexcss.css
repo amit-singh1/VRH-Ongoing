@@ -1,0 +1,156 @@
+
+@media (min-width: 768px) { 
+
+inner{
+    overflow: hidden;
+}
+
+.inner img{
+    transition: all 1.5s ease;
+}
+ 
+.inner:hover img{
+    transform: scale(1.5);
+}
+
+
+
+.carousel-item{
+    height: 500px;
+	width:100%;
+} 
+.carousel-item img{
+    height: 500px;
+	width:100%;
+}
+
+h5{
+	
+	color:black;
+	
+}
+
+p{
+	color:black;
+}
+
+.card{
+	
+	margin-top:5px;
+	
+}
+
+
+#outcard{
+	
+	background-color:white;
+	color:black;
+	height:380px;
+	
+	
+}
+
+#outcard1{
+	
+	margin-top:50px;
+}
+
+.card{
+height:205px;
+
+}
+.card-img-top{
+	
+	height:205px;
+	
+}
+
+h1{
+	
+	margin-left:50px;
+}
+
+#firstcard{
+	margin-left:5px;
+}
+
+#info{
+	
+	background-color:orange;
+	width:400px;
+	
+}
+
+.jumbotron{
+	
+	background-image: url('https://coolbackgrounds.io/images/unsplash/josh-bean-medium-9501ba9f.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.information{
+	
+	background-image: url('https://coolbackgrounds.io/images/unsplash/josh-bean-medium-9501ba9f.jpg');
+	 background-size: 100% auto;
+	 height:420px;
+	
+}
+
+
+#info-photo{
+	
+	background-image: url('https://static.vecteezy.com/system/resources/thumbnails/000/680/406/small/abstract-purple-wave-background.jpg');
+	float:right;
+	margin-right:140px;
+	height:300px;
+		width: 290px;
+		
+	
+}
+
+#partners{
+	
+	margin-top:20px;
+	
+}
+
+
+.partcard{
+	
+	float:left;
+	margin-left:20px;
+	
+}
+.postcard1{
+	
+	float:right;
+	margin-right:5px;
+	
+}
+
+.clear1{
+	
+	clear:both;
+	
+}
+
+.fa{
+	
+	margin-left:10px;
+	
+}
+
+.space{
+	float:right;
+	margin-right:1250px;
+	
+}
+#connect{
+	
+	color:white;
+	background-color:black;
+	height:40px;
+	
+}
+}
